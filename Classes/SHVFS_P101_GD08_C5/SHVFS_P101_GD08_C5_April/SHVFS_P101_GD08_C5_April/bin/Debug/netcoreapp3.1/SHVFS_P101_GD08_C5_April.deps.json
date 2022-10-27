@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SHVFS_P101_GD08_C5_April/1.0.0": {
+        "runtime": {
+          "SHVFS_P101_GD08_C5_April.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SHVFS_P101_GD08_C5_April/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

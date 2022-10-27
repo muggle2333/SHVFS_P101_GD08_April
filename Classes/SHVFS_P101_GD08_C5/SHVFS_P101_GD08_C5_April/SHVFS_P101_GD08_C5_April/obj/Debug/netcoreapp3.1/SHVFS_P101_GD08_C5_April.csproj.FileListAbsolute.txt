@@ -1,0 +1,14 @@
+F:\Shvfs\Term01\Programming\SHVFS_P101_GD08_C5\SHVFS_P101_GD08_C5_April\SHVFS_P101_GD08_C5_April\bin\Debug\netcoreapp3.1\SHVFS_P101_GD08_C5_April.exe
+F:\Shvfs\Term01\Programming\SHVFS_P101_GD08_C5\SHVFS_P101_GD08_C5_April\SHVFS_P101_GD08_C5_April\bin\Debug\netcoreapp3.1\SHVFS_P101_GD08_C5_April.deps.json
+F:\Shvfs\Term01\Programming\SHVFS_P101_GD08_C5\SHVFS_P101_GD08_C5_April\SHVFS_P101_GD08_C5_April\bin\Debug\netcoreapp3.1\SHVFS_P101_GD08_C5_April.runtimeconfig.json
+F:\Shvfs\Term01\Programming\SHVFS_P101_GD08_C5\SHVFS_P101_GD08_C5_April\SHVFS_P101_GD08_C5_April\bin\Debug\netcoreapp3.1\SHVFS_P101_GD08_C5_April.runtimeconfig.dev.json
+F:\Shvfs\Term01\Programming\SHVFS_P101_GD08_C5\SHVFS_P101_GD08_C5_April\SHVFS_P101_GD08_C5_April\bin\Debug\netcoreapp3.1\SHVFS_P101_GD08_C5_April.dll
+F:\Shvfs\Term01\Programming\SHVFS_P101_GD08_C5\SHVFS_P101_GD08_C5_April\SHVFS_P101_GD08_C5_April\bin\Debug\netcoreapp3.1\SHVFS_P101_GD08_C5_April.pdb
+F:\Shvfs\Term01\Programming\SHVFS_P101_GD08_C5\SHVFS_P101_GD08_C5_April\SHVFS_P101_GD08_C5_April\obj\Debug\netcoreapp3.1\SHVFS_P101_GD08_C5_April.csproj.AssemblyReference.cache
+F:\Shvfs\Term01\Programming\SHVFS_P101_GD08_C5\SHVFS_P101_GD08_C5_April\SHVFS_P101_GD08_C5_April\obj\Debug\netcoreapp3.1\SHVFS_P101_GD08_C5_April.GeneratedMSBuildEditorConfig.editorconfig
+F:\Shvfs\Term01\Programming\SHVFS_P101_GD08_C5\SHVFS_P101_GD08_C5_April\SHVFS_P101_GD08_C5_April\obj\Debug\netcoreapp3.1\SHVFS_P101_GD08_C5_April.AssemblyInfoInputs.cache
+F:\Shvfs\Term01\Programming\SHVFS_P101_GD08_C5\SHVFS_P101_GD08_C5_April\SHVFS_P101_GD08_C5_April\obj\Debug\netcoreapp3.1\SHVFS_P101_GD08_C5_April.AssemblyInfo.cs
+F:\Shvfs\Term01\Programming\SHVFS_P101_GD08_C5\SHVFS_P101_GD08_C5_April\SHVFS_P101_GD08_C5_April\obj\Debug\netcoreapp3.1\SHVFS_P101_GD08_C5_April.csproj.CoreCompileInputs.cache
+F:\Shvfs\Term01\Programming\SHVFS_P101_GD08_C5\SHVFS_P101_GD08_C5_April\SHVFS_P101_GD08_C5_April\obj\Debug\netcoreapp3.1\SHVFS_P101_GD08_C5_April.dll
+F:\Shvfs\Term01\Programming\SHVFS_P101_GD08_C5\SHVFS_P101_GD08_C5_April\SHVFS_P101_GD08_C5_April\obj\Debug\netcoreapp3.1\SHVFS_P101_GD08_C5_April.pdb
+F:\Shvfs\Term01\Programming\SHVFS_P101_GD08_C5\SHVFS_P101_GD08_C5_April\SHVFS_P101_GD08_C5_April\obj\Debug\netcoreapp3.1\SHVFS_P101_GD08_C5_April.genruntimeconfig.cache
