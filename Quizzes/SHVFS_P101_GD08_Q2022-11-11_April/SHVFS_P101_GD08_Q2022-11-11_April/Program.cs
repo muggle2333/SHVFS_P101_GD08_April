@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Reflection.Emit;
+using System.Reflection.Metadata;
 
 namespace SHVFS_P101_GD08_Q3_April
 {
@@ -17,10 +19,17 @@ namespace SHVFS_P101_GD08_Q3_April
     public class GameObject
     {
         public Position pos;
-        //public string name;
+        public string name;
+
+        public GameObject( string name,Position pos)
+        {
+            this.pos = pos;
+            this.name = name;
+        }
+
         public bool CheckPosition(GameObject go)
         {
-            if(go.pos.X==this.pos.X&& go.pos.Y == this.pos.Y&& go.pos.Z == this.pos.Z)
+            if(go.pos.X==pos.X&& go.pos.Y == pos.Y&& go.pos.Z == pos.Z)
             {
                 return true;
             }
@@ -33,18 +42,14 @@ namespace SHVFS_P101_GD08_Q3_April
         public static void Main(string[] args)
         {
             GameObject[] go = new GameObject[5];
-            go[0].pos = new Position(10, 20, 30);
-            go[1].pos = new Position(10, 20, 30);
-            go[2].pos = new Position(0, 20, 30);
-            go[3].pos = new Position(10, 2, 30);
-            go[4].pos = new Position(10, 20, 3);
-            for (int i=0;i<go.Length;i++)
+            go[0] = new GameObject("0",new Position(0, 20, 60));
+            go[1] = new GameObject("1", new Position(10, 20, 60));
+            go[2] = new GameObject("2", new Position(20, 20, 60));
+            go[3] = new GameObject("3", new Position(0, 20, 60));
+            go[4] = new GameObject("4", new Position(100, 20, 60));
+            for (int i=0;i<go.Length-1;i++)
             {
-                go[i].name = "GameObject" + i;
-            }
-            for(int i=0;i<go.Length;i++)
-            {
-                for(int j=1;j<go.Length;j++)
+                for(int j=i+1;j<go.Length;j++)
                 {
                     if (go[i].CheckPosition(go[j]))
                     {
